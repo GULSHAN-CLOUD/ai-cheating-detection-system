@@ -1,6 +1,7 @@
 streamlit
 opencv-python-headless
 numpy
+pillow
 mediapipe
 ultralytics
-pillow
+torch==2.2.0 --index-url https://download.pytorch.org/whl/cpu
